@@ -154,3 +154,5 @@ dmypy.json
 
 # db volume
 docker/mongo_db/db/
+
+api/.pip
